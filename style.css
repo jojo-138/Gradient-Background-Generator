@@ -4,17 +4,16 @@ body {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
-	background: linear-gradient(to right, rgb(210,121,160) , rgb(25,134,148)); /* Standard syntax */
+	background: linear-gradient(to right, rgb(210,121,160) , rgb(25,134,148));
 }
 
 h1 {
     font: 600 3.5em 'Raleway', sans-serif;
-    letter-spacing: .5em;
+    letter-spacing: 1vw;
 }
 
 h3 {
 	font: 900 1em 'Raleway', sans-serif;
     text-transform: none;
     letter-spacing: 0.05em;
-
 }
